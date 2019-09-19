@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://biedeeyohl.huerth-bleibt-bunt.de/sitemap.xml
